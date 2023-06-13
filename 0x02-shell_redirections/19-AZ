@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 tr ac ze
+=======
+tr Ac Ze
+>>>>>>> 80cdb59fba0fa978bd14efe412356232b75da278
